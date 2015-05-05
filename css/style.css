@@ -32,3 +32,27 @@
 #mainNav {
   color: white;
 }
+
+#services > p {
+  margin-top: 2em;
+
+}
+
+#services > div:nth-child(1) > div > div > h2 {
+  margin-top: -2em;
+}
+
+footer {
+    width: 100%;
+    height: 75px;
+    background-color: #fff;
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer > h3 {
+    color: #acb8b5;
+    font-weight: 700;
+}
