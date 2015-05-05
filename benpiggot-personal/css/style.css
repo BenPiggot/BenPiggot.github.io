@@ -1,0 +1,7 @@
+#contact > div > div > div > p > a {
+  color: black;
+}
+
+#contact > div > div > div > p > a:hover {
+  color: #acb8b5;
+}
