@@ -5,3 +5,25 @@
 #contact > div > div > div > p > a:hover {
   color: #acb8b5;
 }
+
+#page-top > header > div > div > p {
+  font-size: 22px;
+}
+
+#page-top > header > div > div > h1 {
+  font-size: 80px !important;
+}
+
+#about > div > div > div > a {
+  color: #acb8b5;
+
+}
+
+#portfolio > div > div > div > a > div > div > div.project-name {
+  font-size: 24px;
+  margin-bottom: 0.5em;
+}
+
+#portfolio > div > div > div > a > div > div > div.project-category.text-faded {
+  font-size: 16px;
+}
