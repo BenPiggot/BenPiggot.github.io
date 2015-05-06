@@ -17,8 +17,23 @@
 
 #about > div > div > div > a {
   color: #acb8b5;
-
 }
+
+#services > div:nth-child(2) > div > div:nth-child(4) > div {
+  margin-top: 3em;
+}
+
+#services > div:nth-child(2) > div > div:nth-child(3) > div {
+  margin-top: 3em;
+}
+
+/*#bs-example-navbar-collapse-1 > ul > li > a:hover {
+  color: rgba(255,255,255,0.5);
+}*/
+
+/*#mainNav > div > div.navbar-header > a:hover {
+  color: rgba(255,255,255,0.5);
+}*/
 
 #portfolio > div > div > div > a > div > div > div.project-name {
   font-size: 24px;
@@ -34,21 +49,23 @@
 }
 
 #about > div > div > div > img {
-  border-radius: 100px;
-  height: 200px;
-  width: 200px;
+  border-radius: 80px;
+  height: 160px;
+  width: 160px;
   margin-bottom: 3em;
-  margin-top: -3em;
+  margin-top: -4em;
 }
 
 #services > p {
-  margin-top: 2em;
+  margin-top: 3em;
+  margin-bottom: -2em;
 
 }
 
 #services > div:nth-child(1) > div > div > h2 {
-  margin-top: -2em;
-  font-size: 32px;
+  margin-top: -1.5em;
+  margin-bottom: -0.5em;
+  font-size: 36px;
 }
 
 #services > div:nth-child(2) {
@@ -84,5 +101,5 @@ footer > h3 {
 }
 
 #contact > footer > div > a > i:hover {
-  color: #acb8b5;;
+  color: #acb8b5;
 }
