@@ -65,6 +65,15 @@
   font-size: 12px;
 }
 
+#portfolio > div > div:nth-child(2) > div > div > h4 > span > a > i {
+  color: black;
+}
+
+#portfolio > div > div:nth-child(2) > div > div > h4 > span > a > i:hover {
+  color: #acb8b5;
+}
+
+
 #mainNav {
   color: white;
 }
