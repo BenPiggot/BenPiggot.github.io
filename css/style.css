@@ -132,8 +132,8 @@ footer > h3 {
   color: #acb8b5;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 380px) {
   #portfolio > div > div:nth-child(2) > div > a > div > div > div {
-  margin-top: -5em;
+  margin-top: -5.5em;
 }
 }
