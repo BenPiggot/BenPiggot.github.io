@@ -27,6 +27,7 @@
   margin-top: 3em;
 }
 
+
 #services > p {
   margin-top: 3em;
   margin-bottom: -2em;
@@ -100,8 +101,6 @@
   margin-top: -4em;
 }
 
-
-
 #contact > div > div > div.col-lg-8.col-lg-offset-2.text-center > h2 {
   margin-top: -1em;
 }
@@ -131,4 +130,10 @@ footer > h3 {
 
 #contact > footer > div > a > i:hover {
   color: #acb8b5;
+}
+
+@media screen and (max-width: 400px) {
+  #portfolio > div > div:nth-child(2) > div > a > div > div > div {
+  margin-top: 0em;
+}
 }
