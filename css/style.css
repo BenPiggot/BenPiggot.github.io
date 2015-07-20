@@ -27,7 +27,6 @@
   margin-top: 3em;
 }
 
-
 #services > p {
   margin-top: 3em;
   margin-bottom: -2em;
@@ -132,8 +131,17 @@ footer > h3 {
   color: #acb8b5;
 }
 
+@media screen and (max-width: 600px) {
+    #page-top > header > div > div > h1 {
+    font-size: 70px !important;
+    color: rgba(255,255,255,0.8);
+  }
+}
+
 @media screen and (max-width: 380px) {
+
+
   #portfolio > div > div:nth-child(2) > div > a > div > div > div {
   margin-top: -5.5em;
-}
+  }
 }
